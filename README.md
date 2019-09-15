@@ -1,5 +1,6 @@
 # Fake_Sqli_Bypass-自动化Fuzz Sqli/生成tamper
 ### Fake框架的自动化Fuzz WAF/IDS 功能
+### 觉得使用还可以请点一个star让我体会一下工具也有人用的感觉
 
 太久没写代码了，写的好丑hhhhhhhhh
 </br>

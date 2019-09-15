@@ -24,6 +24,8 @@
 ## 使用方法
 
 具体配置请修改config/settings.py
+</br>
+有些配置还没有写，只是摆设
 
 ```
 git clone https://github.com/RandomSiYuan/Fake_Sqli_Bypass.git

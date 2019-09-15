@@ -13,7 +13,7 @@
 
 >Author：思源
 >
->Team  : [08Sec安全团队](https://www.08sec.org/) @校长办公室
+>Team  : [08Sec安全团队](https://www.08sec.org/) and @ 校长办公室
 
 ## 已更新
 ### Fake_Sqli_Bypass v0.1

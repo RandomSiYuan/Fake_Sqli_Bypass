@@ -7,7 +7,7 @@
 
 >Author：思源
 >
->Team: [08Sec安全团队](https://www.08sec.org/)
+>Team  : [08Sec安全团队](https://www.08sec.org/)
 
 ## 已更新
 ### Fake_Sqli_Bypass v0.1

@@ -17,4 +17,5 @@ def meun():
 
 if __name__ == '__main__':
     meun()
-    core.fuzz.fuzz_start(object,settings.settings.url,settings.settings.str)
+    core.fuzz.Ddun_start(object,settings.settings.url,settings.settings.str)
+    core.fuzz.fuzz_start(object, settings.settings.url, settings.settings.str)

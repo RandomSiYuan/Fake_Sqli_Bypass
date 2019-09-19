@@ -1,5 +1,6 @@
 # Fake_Sqli_Bypass-自动化Fuzz Sqli/生成tamper
 ### Fake框架的自动化Fuzz WAF/IDS 功能
+### 觉得使用还可以请点一个star让我体会一下工具也有人用的感觉
 
 太久没写代码了，写的好丑hhhhhhhhh
 </br>
@@ -16,9 +17,23 @@
 </br>
 前期脚本只是放出来给大家娱乐娱乐，毕竟没有什么特别好用的操作
 
->Author：思源
+>Author：思缘
 >
 >Team  : [08Sec安全团队](https://www.08sec.org/) @校长办公室
+
+
+## 使用方法
+
+具体配置请修改config/settings.py
+</br>
+有些配置还没有写，只是摆设
+
+```
+git clone https://github.com/RandomSiYuan/Fake_Sqli_Bypass.git
+cd Fake_Sqli_Bypass
+python3 main.py
+```
+
 
 ## 已更新
 ### Fake_Sqli_Bypass v0.1

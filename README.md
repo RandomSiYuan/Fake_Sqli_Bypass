@@ -42,6 +42,10 @@ python3 main.py
 </br>
 2.tamper生成
 
+## Fake_Sqli_Bypass v0.1.5
+
+1.Fuzz 规则库更新
+
 ## 预计更新
 ### Fake_Sqli_Bypass v0.2
 
